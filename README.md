@@ -11,3 +11,4 @@ This project is a simple Python command-line application that calculates the Bod
   - Normal weight (18.5 <= BMI <= 24.9)
   - Overweight (25.0 <= BMI <= 29.9)
   - Obese (BMI >= 30)
+![Screenshot_1](https://github.com/user-attachments/assets/d72eddae-d846-4849-9e99-a45fa609df5d)
