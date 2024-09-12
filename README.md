@@ -1,6 +1,6 @@
 # BMI Calculator
 
-This project is a simple Python command-line application that calculates the Body Mass Index (BMI) of a person and classifies them into categories such as underweight, normal weight, overweight, or obese.
+This project is a simple application that calculates the Body Mass Index (BMI) of a person and classifies them into categories such as underweight, normal weight, overweight, or obese.
 
 ## Features
 
